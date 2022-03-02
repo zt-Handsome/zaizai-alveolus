@@ -1,10 +1,18 @@
+/*
+ * @Author: your name
+ * @Date: 2022-03-02 19:58:47
+ * @LastEditTime: 2022-03-02 20:24:26
+ * @LastEditors: your name
+ * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ * @FilePath: \zaizai-alveolus\docs\.vuepress\config.js
+ */
 const themeConfig = require('./config/theme/')
 
 module.exports = {
   base: '/',
   title: "Alex wjj",
   description: 'Just Do It',
-  dest: 'docs/.vuepress/dist',
+  dest: 'dist',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
