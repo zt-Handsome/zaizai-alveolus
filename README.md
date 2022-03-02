@@ -14,12 +14,12 @@
   </a>
 </p> -->
 
-## 关于我
+<!-- ## 关于我 -->
 
 <!-- [关于我 - 图文介绍](https://alexwjj.github.io/views/about/) -->
 
-## 关注我
-![wxgzh](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/35e5fb5f6e654ba88d9b6c860ff859e4~tplv-k3u1fbpfcp-watermark.image)
+<!-- ## 关注我 -->
+<!-- ![wxgzh](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/35e5fb5f6e654ba88d9b6c860ff859e4~tplv-k3u1fbpfcp-watermark.image) -->
 ## 资源分享(持续更新)
 ### 1、博客
 - [阮一峰的个人网站](http://www.ruanyifeng.com/home.html)  持续更新，没事就去看看，阮大的风格就是`很容易看懂`
